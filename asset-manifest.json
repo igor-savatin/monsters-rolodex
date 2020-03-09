@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/igor-savatin.github.io/monsters-rolodex/static/css/main.418921e5.chunk.css",
+    "main.js": "/igor-savatin.github.io/monsters-rolodex/static/js/main.33fcd9c3.chunk.js",
+    "main.js.map": "/igor-savatin.github.io/monsters-rolodex/static/js/main.33fcd9c3.chunk.js.map",
+    "runtime-main.js": "/igor-savatin.github.io/monsters-rolodex/static/js/runtime-main.858638cc.js",
+    "runtime-main.js.map": "/igor-savatin.github.io/monsters-rolodex/static/js/runtime-main.858638cc.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/igor-savatin.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/igor-savatin.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/igor-savatin.github.io/monsters-rolodex/index.html",
+    "precache-manifest.2151cce99968e38e0c9b2915671c4716.js": "/igor-savatin.github.io/monsters-rolodex/precache-manifest.2151cce99968e38e0c9b2915671c4716.js",
+    "service-worker.js": "/igor-savatin.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.418921e5.chunk.css.map": "/igor-savatin.github.io/monsters-rolodex/static/css/main.418921e5.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/igor-savatin.github.io/monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.858638cc.js",
+    "static/js/2.0d232ef2.chunk.js",
+    "static/css/main.418921e5.chunk.css",
+    "static/js/main.33fcd9c3.chunk.js"
+  ]
+}
